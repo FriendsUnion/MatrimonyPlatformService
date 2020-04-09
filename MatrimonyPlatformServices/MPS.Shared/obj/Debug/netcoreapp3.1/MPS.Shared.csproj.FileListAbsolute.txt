@@ -1,0 +1,9 @@
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.Shared\bin\Debug\netcoreapp3.1\MPS.Shared.deps.json
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.Shared\bin\Debug\netcoreapp3.1\MPS.Shared.dll
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.Shared\bin\Debug\netcoreapp3.1\MPS.Shared.pdb
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.Shared\obj\Debug\netcoreapp3.1\MPS.Shared.AssemblyInfoInputs.cache
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.Shared\obj\Debug\netcoreapp3.1\MPS.Shared.AssemblyInfo.cs
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.Shared\obj\Debug\netcoreapp3.1\MPS.Shared.dll
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.Shared\obj\Debug\netcoreapp3.1\MPS.Shared.pdb
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.Shared\obj\Debug\netcoreapp3.1\MPS.Shared.csproj.CoreCompileInputs.cache
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.Shared\obj\Debug\netcoreapp3.1\MPS.Shared.csprojAssemblyReference.cache

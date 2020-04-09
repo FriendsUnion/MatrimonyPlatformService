@@ -1,0 +1,16 @@
+adaptive-icon;obj\Release\50\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Release\50\res\mipmap-anydpi-v26\ic_launcher_round.xml
+background;obj\Release\50\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Release\50\res\mipmap-anydpi-v26\ic_launcher_round.xml
+color;obj\Release\50\res\values\colors.xml
+color;obj\Release\50\res\values\ic_launcher_background.xml
+foreground;obj\Release\50\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Release\50\res\mipmap-anydpi-v26\ic_launcher_round.xml
+item;obj\Release\50\res\values\styles.xml
+RelativeLayout;obj\Release\50\res\layout\activity_main.xml
+resources;obj\Release\50\res\values\colors.xml
+resources;obj\Release\50\res\values\ic_launcher_background.xml
+resources;obj\Release\50\res\values\strings.xml
+resources;obj\Release\50\res\values\styles.xml
+string;obj\Release\50\res\values\strings.xml
+style;obj\Release\50\res\values\styles.xml

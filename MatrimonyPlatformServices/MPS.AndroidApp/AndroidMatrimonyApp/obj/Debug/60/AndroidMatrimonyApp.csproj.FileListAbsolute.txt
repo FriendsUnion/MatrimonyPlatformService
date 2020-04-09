@@ -1,0 +1,3 @@
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\60\build.props
+C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\60\adb.props
