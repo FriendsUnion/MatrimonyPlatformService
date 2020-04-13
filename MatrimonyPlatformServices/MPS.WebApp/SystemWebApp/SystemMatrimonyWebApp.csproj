@@ -4,6 +4,38 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="wwwroot\Js Backup\**" />
+    <Content Remove="wwwroot\Js Backup\**" />
+    <EmbeddedResource Remove="wwwroot\Js Backup\**" />
+    <None Remove="wwwroot\Js Backup\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Assets\dist\js\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Assets\bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\Assets\bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\Assets\bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\Assets\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\Assets\bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\Assets\bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.js.map" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\Assets\bootstrap\js\bootstrap.min.js.map" />
+  </ItemGroup>
+
 
 
 </Project>

@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\SystemMatrimonyWebApp.csproj": {}
+    "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\SystemMatrimonyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\SystemMatrimonyWebApp.csproj": {
+    "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\SystemMatrimonyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\SystemMatrimonyWebApp.csproj",
+        "projectUniqueName": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\SystemMatrimonyWebApp.csproj",
         "projectName": "SystemMatrimonyWebApp",
-        "projectPath": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\SystemMatrimonyWebApp.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\obj\\",
+        "projectPath": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\SystemMatrimonyWebApp.csproj",
+        "packagesPath": "C:\\Users\\OSHRS LP 1\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.WebApp\\SystemWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OSHRS LP 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -41,6 +42,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

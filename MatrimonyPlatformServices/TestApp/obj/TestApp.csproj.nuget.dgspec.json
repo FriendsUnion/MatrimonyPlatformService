@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\TestApp\\TestApp.csproj": {}
+    "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\TestApp\\TestApp.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj": {
+    "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj",
+        "projectUniqueName": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj",
         "projectName": "MPS.Shared",
-        "projectPath": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.Shared\\obj\\",
+        "projectPath": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj",
+        "packagesPath": "C:\\Users\\OSHRS LP 1\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OSHRS LP 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -85,20 +86,21 @@
         }
       }
     },
-    "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\TestApp\\TestApp.csproj": {
+    "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\TestApp\\TestApp.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\TestApp\\obj\\",
+        "projectPath": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\TestApp\\TestApp.csproj",
+        "packagesPath": "C:\\Users\\OSHRS LP 1\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OSHRS LP 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -112,8 +114,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj": {
-                "projectPath": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj"
+              "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj": {
+                "projectPath": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.Shared\\MPS.Shared.csproj"
               }
             }
           }

@@ -1,0 +1,100 @@
+﻿
+@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <link href="~/css/fontawesome/css/all.min.css" rel="stylesheet" />
+    <link href="~/Assets/dist/css/LoginCss.css" rel="stylesheet" />
+    <script src="~/js/jQueryv3.4.1.js"></script>
+    <style>
+    </style>
+</head>
+<body style="background-image: url('/Assets/dist/img/image1.jpg');">
+    <div class="container" id="container">
+        <div class="form-container sign-up-container">
+            <form action="#">
+                <h1>Create Account</h1>
+                <br />
+                <div data-tip="To whom this account belongs to!">
+                    <select id="accountfor" class="accountfor">
+                        <option value="0">Account for</option>
+                        <option value="1">Self</option>
+                        <option value="2">Son</option>
+                        <option value="3">Daughter</option>
+                        <option value="4">Friend</option>
+                    </select>
+                </div>
+                <div data-tip="Let us know your gender">
+                    <select id="ddrgender" class="genderddr">
+                        <option value="0">Gender</option>
+                        <option value="1">Male</option>
+                        <option value="2">Female</option>
+                    </select>
+                </div>
+                <div data-tip="Let us know your Name">
+                    <input type="text" placeholder="Name" required />
+                </div>
+                <div data-tip="How old are you!">
+                    <input type="date" required />
+                </div>
+                <div data-tip="How to reach you!">
+                    <input type="email" placeholder="Email" required />
+                </div>
+                <div data-tip="How to contact you!">
+                    <input type="text" placeholder="Phone Number" required />
+                </div>
+                <div data-tip="Make sure its confidential">
+                    <input id="password" type="password" placeholder="Password" onchange="enableConfirmPass()" required />
+                    <span id="passwordIcon" class="passwordeye fa fa-eye" onclick="showPassword()"></span>
+                </div>
+                <div data-tip="Make sure it maches abouve one">
+                    <input id="confirmPass" type="password" placeholder="Confirm Password" required />
+                    <span id="passwordOk" class="passwordIconMatch fa fa-thumbs-up fa-lg"></span>
+                    <span id="passwordWrong" class="passwordIconWrong fa fa-times fa-lg"></span>
+                </div>
+                <button>Sign Up</button>
+            </form>
+        </div>
+        <div class="form-container sign-in-container">
+            <form action="#">
+                <h1 style="color:aqua">LOGO WILL REPLACE THIS TEXT</h1>
+                <h1>Sign in</h1>
+                <br />
+                <input type="text" placeholder="Email/Phone Number" required />
+                <input id="passwordsingin" type="password" placeholder="Password" required />
+                <span id="passwordIconsignin" style="position:absolute;top: 247px;right: 68px;" class="fa fa-eye" onclick="showPasswordSignin()"></span>
+                <a href="#">Forgot your password?</a>
+
+                <button style="margin-top: 30px;">Sign In</button>
+            </form>
+        </div>
+        <div class="overlay-container">
+            <div class="overlay">
+                <div class="overlay-panel overlay-left">
+                    <h1>Welcome Back!</h1>
+                    <p>To keep connected with us please login with your personal info</p>
+                    <button class="ghost" id="signIn">Sign In</button>
+                </div>
+                <div class="overlay-panel overlay-right">
+                    <h1>Hello!!</h1>
+                    <h2>Not having account!</h2>
+                    <p>Enter your personal details and start journey with us</p>
+                    <button class="ghost" id="signUp">Sign Up</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>
+            @("@") Copy Rights @DateTime.Now.Year
+        </p>
+    </footer>
+</body>
+</html>
+<script src="~/js/website.js"></script>
+@*<script>
+
+    $(':input').removeAttr('title');
+</script>*@

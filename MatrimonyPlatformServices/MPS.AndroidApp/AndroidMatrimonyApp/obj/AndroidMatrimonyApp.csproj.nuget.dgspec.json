@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\AndroidMatrimonyApp.csproj": {}
+    "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\AndroidMatrimonyApp.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\AndroidMatrimonyApp.csproj": {
+    "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\AndroidMatrimonyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\AndroidMatrimonyApp.csproj",
+        "projectUniqueName": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\AndroidMatrimonyApp.csproj",
         "projectName": "AndroidMatrimonyApp",
-        "projectPath": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\AndroidMatrimonyApp.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Develop\\MatrimonyPlatformServices\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\obj\\",
+        "projectPath": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\AndroidMatrimonyApp.csproj",
+        "packagesPath": "C:\\Users\\OSHRS LP 1\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Matrimony Project\\MatrimonyPlatformServices\\MPS.AndroidApp\\AndroidMatrimonyApp\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\OSHRS LP 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
