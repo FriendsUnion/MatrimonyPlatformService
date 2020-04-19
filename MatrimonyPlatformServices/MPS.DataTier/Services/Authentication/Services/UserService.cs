@@ -1,7 +1,7 @@
 ﻿using Authentication.Interfaces;
-using Authentication.Models;
 using Microsoft.Extensions.Logging;
 using MPS.Shared;
+using MPS.Shared.Models;
 using System.Threading.Tasks;
 
 namespace Authentication.Services
@@ -23,6 +23,6 @@ namespace Authentication.Services
             var token = _tokenProvider.GenerateAuthenticationToken(userDetail, credential.RequestIssuer);
             userDetail.SetAuthenticationToken(token);
             return Task.FromResult(userDetail);
-        }        
+        }
     }
 }

@@ -2,3 +2,7 @@ C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.AndroidA
 C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\70\build.props
 C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\70\adb.props
 C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\70\AndroidMatrimonyApp.csprojAssemblyReference.cache
+D:\Code\Matrimony Project\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\70\MonoAndroid,Version=v7.0.AssemblyAttributes.cs
+D:\Code\Matrimony Project\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\70\build.props
+D:\Code\Matrimony Project\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\70\adb.props
+D:\Code\Matrimony Project\MatrimonyPlatformServices\MPS.AndroidApp\AndroidMatrimonyApp\obj\Debug\70\AndroidMatrimonyApp.csprojAssemblyReference.cache

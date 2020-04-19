@@ -1,4 +1,5 @@
 ﻿using MPS.Shared;
+using MPS.Shared.Models;
 
 namespace Authentication.Interfaces
 {

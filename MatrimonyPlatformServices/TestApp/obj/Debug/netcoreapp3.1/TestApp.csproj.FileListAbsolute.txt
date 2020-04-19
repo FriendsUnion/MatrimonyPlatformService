@@ -41,3 +41,33 @@ C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\TestApp\bin\
 C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
 C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
 C:\Work\Develop\MatrimonyPlatformServices\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\AspNetCore.Serilog.RequestLoggingMiddleware.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\MPS.Shared.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\bin\Debug\netcoreapp3.1\MPS.Shared.pdb
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CopyComplete
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+D:\Code\Matrimony Project\MatrimonyPlatformServices\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache

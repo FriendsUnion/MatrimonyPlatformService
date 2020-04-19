@@ -14,7 +14,7 @@
 <body style="background-image: url('/Assets/dist/img/image1.jpg');">
     <div class="container" id="container">
         <div class="form-container sign-up-container">
-            <form action="#">
+            <form>
                 <h1>Create Account</h1>
                 <br />
                 <div data-tip="To whom this account belongs to!">
@@ -54,20 +54,20 @@
                     <span id="passwordOk" class="passwordIconMatch fa fa-thumbs-up fa-lg"></span>
                     <span id="passwordWrong" class="passwordIconWrong fa fa-times fa-lg"></span>
                 </div>
-                <button>Sign Up</button>
+                <button type="submit" asp-action="SignUp">Sign Up</button>
             </form>
         </div>
         <div class="form-container sign-in-container">
-            <form action="#">
+            <form>
                 <h1 style="color:aqua">LOGO WILL REPLACE THIS TEXT</h1>
                 <h1>Sign in</h1>
                 <br />
-                <input type="text" placeholder="Email/Phone Number" required />
-                <input id="passwordsingin" type="password" placeholder="Password" required />
+                <input id="txtuserName" type="text" name="userName" placeholder="Email/Phone Number" required />
+                <input id="passwordsingin" type="password" name="password" placeholder="Password" required />
                 <span id="passwordIconsignin" style="position:absolute;top: 247px;right: 68px;" class="fa fa-eye" onclick="showPasswordSignin()"></span>
                 <a href="#">Forgot your password?</a>
 
-                <button style="margin-top: 30px;">Sign In</button>
+                <button style="margin-top: 30px;" asp-action="LoginValidate">Sign In</button>
             </form>
         </div>
         <div class="overlay-container">
@@ -96,5 +96,5 @@
 <script src="~/js/website.js"></script>
 @*<script>
 
-    $(':input').removeAttr('title');
-</script>*@
+        $(':input').removeAttr('title');
+    </script>*@

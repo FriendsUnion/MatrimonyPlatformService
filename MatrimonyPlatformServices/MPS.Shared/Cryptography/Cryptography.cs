@@ -7,7 +7,7 @@ using System.Text;
 
 namespace MPS.Shared.Cryptography
 {
-    public class Cryptography
+    public static class Cryptography
     {
         public static byte[] IV = new byte[] { 0x01, 0x07, 0x02, 0x09, 0x03, 0x04, 0x08, 0x08, 0x07, 0x03, 0x02, 0x02, 0x02, 0x01, 0x07, 0x08 };
 
@@ -78,7 +78,7 @@ namespace MPS.Shared.Cryptography
                             }
                         }
                     }
-                }                
+                }
             }
 
             return t;

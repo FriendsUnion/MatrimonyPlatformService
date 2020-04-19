@@ -1,5 +1,6 @@
-﻿using Authentication.Models;
+﻿
 using MPS.Shared;
+using MPS.Shared.Models;
 using System.Threading.Tasks;
 
 namespace Authentication.Interfaces

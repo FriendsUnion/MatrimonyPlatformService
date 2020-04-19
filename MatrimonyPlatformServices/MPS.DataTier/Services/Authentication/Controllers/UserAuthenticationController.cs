@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using MPS.Shared.Extensions;
+using MPS.Shared.Models;
 
 namespace Authentication.Controllers
 {
@@ -17,7 +18,7 @@ namespace Authentication.Controllers
         [AllowAnonymous]
         [Route("api/user/authenticate")]
         [HttpGet]
-        public IActionResult Authenticate()
+        public IActionResult Authenticate([FromBody] UserCredential credential)
         {
             using (_logger.BeginScope("UserAuthenticationController", "Authenticate"))
             {

@@ -36,6 +36,10 @@
     <None Include="wwwroot\Assets\bootstrap\js\bootstrap.min.js.map" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\MPS.DataTier\Services\Authentication\Authentication.csproj" />
+  </ItemGroup>
+
 
 
 </Project>
